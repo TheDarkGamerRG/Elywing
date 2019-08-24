@@ -1,4 +1,4 @@
-###### Elywing was discontinued and will be reborn again!
+## Elywing was discontinued and will be reborn again!
 
 
 
